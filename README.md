@@ -304,262 +304,158 @@ Project Purpose
 This project demonstrates practical skills in AI training, data annotation, AI response evaluation, quality assurance, model analysis, and safety-focused assessment.
 
 It highlights the importance of human oversight when evaluating AI systems operating in physical environments, especially where incorrect decisions can result in injury, damage, or unsafe behavior.
-## Project Screenshots
-
-### Project Overview
-
+AI Robotics Evaluation & Safety Testing Portfolio
+Project Overview
+This portfolio documents scenario-based evaluation of AI responses for robotics tasks. It examines task understanding, safety, perception, spatial and physical reasoning, obstacle avoidance, edge-case awareness, and uncertainty management. Human annotations are compared with model predictions to identify strengths, limitations, and safety-critical disagreements.
 ![Project Overview](screenshots/project-overview.png)
-
----
-
-## Human Evaluation
-
-### Task 1 — Collision Avoidance
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-1-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-1-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-1-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-1-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-1-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-1-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-1-annotation-notes.png)
-
----
-
-### Task 2 — Force, Balance & Object Interaction
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-2-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-2-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-2-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-2-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-2-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-2-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-2-annotation-notes.png)
-
----
-
-### Task 3 — Fragile Glass & Unexpected Obstacle
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-3-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-3-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-3-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-3-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-3-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-3-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-3-annotation-notes.png)
-
----
-
-### Task 4 — Moving on a Wet Ramp
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-4-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-4-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-4-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-4-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-4-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-4-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-4-annotation-notes.png)
-
----
-
-### Task 5 — Embodied Reasoning — Mug Retrieval
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-5-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-5-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-5-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-5-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-5-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-5-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-5-annotation-notes.png)
-
----
-
-### Task 6 — Human Safety During Maintenance & Intervention
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-6-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-6-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-6-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-6-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-6-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-6-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-6-annotation-notes.png)
-
----
-
-### Task 7 — Ambiguity, Edge Cases & Uncertainty Management
-
-#### Scenario and AI Response
-![Scenario and AI Response](screenshots/task-7-scenario-and-ai-response.png)
-
-#### Evaluation Feedback
-![Evaluation Feedback](screenshots/task-7-evaluation-feedback.png)
-
-#### Human Evaluation
-
-![Evaluation 1](screenshots/task-7-evaluation-1.png)
-
-![Evaluation 2](screenshots/task-7-evaluation-2.png)
-
-![Evaluation 3](screenshots/task-7-evaluation-3.png)
-
-![Evaluation 4](screenshots/task-7-evaluation-4.png)
-
-#### Annotation Notes
-![Annotation Notes](screenshots/task-7-annotation-notes.png)
-
----
-
-## Human–Model Comparisons
-
-### Task 1 — Collision Avoidance
-
-![Human–Model Comparison 1](screenshots/task-1-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-1-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-1-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-1-human-model-comparison-4.png)
-
----
-
-### Task 2 — Force, Balance & Object Interaction
-
-![Human–Model Comparison 1](screenshots/task-2-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-2-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-2-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-2-human-model-comparison-4.png)
-
----
-
-### Task 3 — Fragile Glass & Unexpected Obstacle
-
-![Human–Model Comparison 1](screenshots/task-3-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-3-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-3-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-3-human-model-comparison-4.png)
-
----
-
-### Task 4 — Moving on a Wet Ramp
-
-![Human–Model Comparison 1](screenshots/task-4-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-4-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-4-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-4-human-model-comparison-4.png)
-
----
-
-### Task 5 — Embodied Reasoning — Mug Retrieval
-
-![Human–Model Comparison 1](screenshots/task-5-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-5-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-5-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-5-human-model-comparison-4.png)
-
----
-
-### Task 6 — Human Safety During Maintenance & Intervention
-
-![Human–Model Comparison 1](screenshots/task-6-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-6-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-6-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-6-human-model-comparison-4.png)
-
----
-
-### Task 7 — Ambiguity, Edge Cases & Uncertainty Management
-
-![Human–Model Comparison 1](screenshots/task-7-human-model-comparison-1.png)
-
-![Human–Model Comparison 2](screenshots/task-7-human-model-comparison-2.png)
-
-![Human–Model Comparison 3](screenshots/task-7-human-model-comparison-3.png)
-
-![Human–Model Comparison 4](screenshots/task-7-human-model-comparison-4.png)
-
----
+Evaluation Documentation
+Each task is documented in sequence. Screenshots are placed directly beside the step they demonstrate—scenario and AI response, evaluator feedback, human annotation, and model-versus-human comparison—so broken image links can be isolated task by task.
+Task 1: Collision Avoidance
+The robot must navigate around obstacles and avoid collisions while carrying out its assigned task.
+Scenario and AI Response
+![Task 1 Scenario and AI Response](screenshots/task-1-collision-avoidance-scenario-response.png)
+Evaluator Feedback
+![Task 1 Evaluator Feedback](screenshots/task-1-collision-avoidance-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 1 Human Annotation Screenshot 1](screenshots/task-1-collision-avoidance-evaluation-1.png)
+![Task 1 Human Annotation Screenshot 2](screenshots/task-1-collision-avoidance-evaluation-2.png)
+![Task 1 Human Annotation Screenshot 3](screenshots/task-1-collision-avoidance-evaluation-3.png)
+![Task 1 Human Annotation Screenshot 4](screenshots/task-1-collision-avoidance-evaluation-4.png)
+Annotation Notes
+![Task 1 Annotation Notes](screenshots/task-1-collision-avoidance-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 1 Human–Model Comparison 1](screenshots/task-1-collision-avoidance-human-model-comparison-1.png)
+![Task 1 Human–Model Comparison 2](screenshots/task-1-collision-avoidance-human-model-comparison-2.png)
+![Task 1 Human–Model Comparison 3](screenshots/task-1-collision-avoidance-human-model-comparison-3.png)
+![Task 1 Human–Model Comparison 4](screenshots/task-1-collision-avoidance-human-model-comparison-4.png)
+Task 2: Embodied AI – Force, Balance & Object Interaction
+Evaluate the robot's ability to interact with objects using appropriate force, maintain balance and stability, and handle physical constraints.
+Scenario and AI Response
+![Task 2 Scenario and AI Response](screenshots/task-2-force-balance-object-interaction-scenario-response.png)
+Evaluator Feedback
+![Task 2 Evaluator Feedback](screenshots/task-2-force-balance-object-interaction-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 2 Human Annotation Screenshot 1](screenshots/task-2-force-balance-object-interaction-evaluation-1.png)
+![Task 2 Human Annotation Screenshot 2](screenshots/task-2-force-balance-object-interaction-evaluation-2.png)
+![Task 2 Human Annotation Screenshot 3](screenshots/task-2-force-balance-object-interaction-evaluation-3.png)
+![Task 2 Human Annotation Screenshot 4](screenshots/task-2-force-balance-object-interaction-evaluation-4.png)
+Annotation Notes
+![Task 2 Annotation Notes](screenshots/task-2-force-balance-object-interaction-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 2 Human–Model Comparison 1](screenshots/task-2-force-balance-object-interaction-human-model-comparison-1.png)
+![Task 2 Human–Model Comparison 2](screenshots/task-2-force-balance-object-interaction-human-model-comparison-2.png)
+![Task 2 Human–Model Comparison 3](screenshots/task-2-force-balance-object-interaction-human-model-comparison-3.png)
+![Task 2 Human–Model Comparison 4](screenshots/task-2-force-balance-object-interaction-human-model-comparison-4.png)
+Task 3: Fragile Glass & Unexpected Obstacle
+The robot is carrying a fragile glass when an unexpected obstacle or change occurs. Evaluate safe handling, stability, perception, and response.
+Scenario and AI Response
+![Task 3 Scenario and AI Response](screenshots/task-3-fragile-glass-unexpected-obstacle-scenario-response.png)
+Evaluator Feedback
+![Task 3 Evaluator Feedback](screenshots/task-3-fragile-glass-unexpected-obstacle-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 3 Human Annotation Screenshot 1](screenshots/task-3-fragile-glass-unexpected-obstacle-evaluation-1.png)
+![Task 3 Human Annotation Screenshot 2](screenshots/task-3-fragile-glass-unexpected-obstacle-evaluation-2.png)
+![Task 3 Human Annotation Screenshot 3](screenshots/task-3-fragile-glass-unexpected-obstacle-evaluation-3.png)
+![Task 3 Human Annotation Screenshot 4](screenshots/task-3-fragile-glass-unexpected-obstacle-evaluation-4.png)
+Annotation Notes
+![Task 3 Annotation Notes](screenshots/task-3-fragile-glass-unexpected-obstacle-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 3 Human–Model Comparison 1](screenshots/task-3-fragile-glass-unexpected-obstacle-human-model-comparison-1.png)
+![Task 3 Human–Model Comparison 2](screenshots/task-3-fragile-glass-unexpected-obstacle-human-model-comparison-2.png)
+![Task 3 Human–Model Comparison 3](screenshots/task-3-fragile-glass-unexpected-obstacle-human-model-comparison-3.png)
+![Task 3 Human–Model Comparison 4](screenshots/task-3-fragile-glass-unexpected-obstacle-human-model-comparison-4.png)
+Task 4: Moving on a Wet Ramp
+Evaluate movement on a wet or slippery ramp, including traction, balance, risk recognition, and safe action.
+Scenario and AI Response
+![Task 4 Scenario and AI Response](screenshots/task-4-wet-ramp-scenario-response.png)
+Evaluator Feedback
+![Task 4 Evaluator Feedback](screenshots/task-4-wet-ramp-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 4 Human Annotation Screenshot 1](screenshots/task-4-wet-ramp-evaluation-1.png)
+![Task 4 Human Annotation Screenshot 2](screenshots/task-4-wet-ramp-evaluation-2.png)
+![Task 4 Human Annotation Screenshot 3](screenshots/task-4-wet-ramp-evaluation-3.png)
+![Task 4 Human Annotation Screenshot 4](screenshots/task-4-wet-ramp-evaluation-4.png)
+Annotation Notes
+![Task 4 Annotation Notes](screenshots/task-4-wet-ramp-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 4 Human–Model Comparison 1](screenshots/task-4-wet-ramp-human-model-comparison-1.png)
+![Task 4 Human–Model Comparison 2](screenshots/task-4-wet-ramp-human-model-comparison-2.png)
+![Task 4 Human–Model Comparison 3](screenshots/task-4-wet-ramp-human-model-comparison-3.png)
+![Task 4 Human–Model Comparison 4](screenshots/task-4-wet-ramp-human-model-comparison-4.png)
+Task 5: Embodied Reasoning – Mug Retrieval in a Kitchen
+Evaluate a robot's reasoning and safe execution when retrieving a mug in a kitchen environment.
+Scenario and AI Response
+![Task 5 Scenario and AI Response](screenshots/task-5-mug-retrieval-kitchen-scenario-response.png)
+Evaluator Feedback
+![Task 5 Evaluator Feedback](screenshots/task-5-mug-retrieval-kitchen-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 5 Human Annotation Screenshot 1](screenshots/task-5-mug-retrieval-kitchen-evaluation-1.png)
+![Task 5 Human Annotation Screenshot 2](screenshots/task-5-mug-retrieval-kitchen-evaluation-2.png)
+![Task 5 Human Annotation Screenshot 3](screenshots/task-5-mug-retrieval-kitchen-evaluation-3.png)
+![Task 5 Human Annotation Screenshot 4](screenshots/task-5-mug-retrieval-kitchen-evaluation-4.png)
+Annotation Notes
+![Task 5 Annotation Notes](screenshots/task-5-mug-retrieval-kitchen-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 5 Human–Model Comparison 1](screenshots/task-5-mug-retrieval-kitchen-human-model-comparison-1.png)
+![Task 5 Human–Model Comparison 2](screenshots/task-5-mug-retrieval-kitchen-human-model-comparison-2.png)
+![Task 5 Human–Model Comparison 3](screenshots/task-5-mug-retrieval-kitchen-human-model-comparison-3.png)
+![Task 5 Human–Model Comparison 4](screenshots/task-5-mug-retrieval-kitchen-human-model-comparison-4.png)
+Task 6: Human Safety During Maintenance & Intervention
+Evaluate whether the robot recognizes maintenance or human-intervention situations and prioritizes safe behavior.
+Scenario and AI Response
+![Task 6 Scenario and AI Response](screenshots/task-6-maintenance-intervention-safety-scenario-response.png)
+Evaluator Feedback
+![Task 6 Evaluator Feedback](screenshots/task-6-maintenance-intervention-safety-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 6 Human Annotation Screenshot 1](screenshots/task-6-maintenance-intervention-safety-evaluation-1.png)
+![Task 6 Human Annotation Screenshot 2](screenshots/task-6-maintenance-intervention-safety-evaluation-2.png)
+![Task 6 Human Annotation Screenshot 3](screenshots/task-6-maintenance-intervention-safety-evaluation-3.png)
+![Task 6 Human Annotation Screenshot 4](screenshots/task-6-maintenance-intervention-safety-evaluation-4.png)
+Annotation Notes
+![Task 6 Annotation Notes](screenshots/task-6-maintenance-intervention-safety-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 6 Human–Model Comparison 1](screenshots/task-6-maintenance-intervention-safety-human-model-comparison-1.png)
+![Task 6 Human–Model Comparison 2](screenshots/task-6-maintenance-intervention-safety-human-model-comparison-2.png)
+![Task 6 Human–Model Comparison 3](screenshots/task-6-maintenance-intervention-safety-human-model-comparison-3.png)
+![Task 6 Human–Model Comparison 4](screenshots/task-6-maintenance-intervention-safety-human-model-comparison-4.png)
+Task 7: Ambiguity, Edge Cases & Uncertainty Management
+Evaluate responses to ambiguous instructions, edge cases, uncertainty, and conditions where the robot should clarify or pause.
+Scenario and AI Response
+![Task 7 Scenario and AI Response](screenshots/task-7-ambiguity-edge-cases-uncertainty-scenario-response.png)
+Evaluator Feedback
+![Task 7 Evaluator Feedback](screenshots/task-7-ambiguity-edge-cases-uncertainty-feedback.png)
+Human Annotation
+The following screenshots document the human evaluation labels and annotation workflow for this task.
+![Task 7 Human Annotation Screenshot 1](screenshots/task-7-ambiguity-edge-cases-uncertainty-evaluation-1.png)
+![Task 7 Human Annotation Screenshot 2](screenshots/task-7-ambiguity-edge-cases-uncertainty-evaluation-2.png)
+![Task 7 Human Annotation Screenshot 3](screenshots/task-7-ambiguity-edge-cases-uncertainty-evaluation-3.png)
+![Task 7 Human Annotation Screenshot 4](screenshots/task-7-ambiguity-edge-cases-uncertainty-evaluation-4.png)
+Annotation Notes
+![Task 7 Annotation Notes](screenshots/task-7-ambiguity-edge-cases-uncertainty-annotation-notes.png)
+Human–Model Comparison
+The screenshots below show the human annotations alongside model predictions for this task.
+![Task 7 Human–Model Comparison 1](screenshots/task-7-ambiguity-edge-cases-uncertainty-human-model-comparison-1.png)
+![Task 7 Human–Model Comparison 2](screenshots/task-7-ambiguity-edge-cases-uncertainty-human-model-comparison-2.png)
+![Task 7 Human–Model Comparison 3](screenshots/task-7-ambiguity-edge-cases-uncertainty-human-model-comparison-3.png)
+![Task 7 Human–Model Comparison 4](screenshots/task-7-ambiguity-edge-cases-uncertainty-human-model-comparison-4.png)
+Screenshot Link Troubleshooting
+All image files referenced by this README are expected to be inside the repository's `screenshots/` folder. GitHub requires the path and filename to match exactly, including capitalization, hyphens, numbering, and the file extension. If a screenshot does not display, check the corresponding filename in the link directly under that task heading.
+Expected filename pattern
+Project overview: `project-overview.png`
+Task screenshots: `task-[number]-[task-slug]-[section].png`
+Human–model comparison: `task-[number]-[task-slug]-human-model-comparison-[number].png`
 
 
 Project Category: AI Evaluation | Robotics | Data Annotation | Embodied AI | Safety Testing
