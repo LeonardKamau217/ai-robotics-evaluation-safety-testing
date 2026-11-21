@@ -96,6 +96,48 @@ Task 1 Screenshots
 
 
 </details>
+
+<details>
+<summary><strong>Scenario and AI Response</strong></summary>
+
+![Task 1 Scenario and AI Response](screenshots/task-1-scenario-and-ai-response.png)
+
+</details>
+
+<details>
+<summary><strong>Human Evaluation</strong></summary>
+
+![First Evaluation](screenshots/task-1-first-evaluation.png)
+
+![Second Evaluation](screenshots/task-1-second-evaluation.png)
+
+![Third Evaluation](screenshots/task-1-third-evaluation.png)
+
+![Fourth Evaluation](screenshots/task-1-fourth-evaluation.png)
+
+</details>
+
+<details>
+<summary><strong>Evaluator Feedback and Annotation Notes</strong></summary>
+
+![Evaluator Feedback](screenshots/task-1-evaluator-feedback.png)
+
+![Annotation Notes](screenshots/task-1-annotation-notes.png)
+
+</details>
+
+<details>
+<summary><strong>Human–Model Comparison</strong></summary>
+
+![Human Model Comparison 1](screenshots/task-1-human-model-comparison-1.png)
+
+![Human Model Comparison 2](screenshots/task-1-human-model-comparison-2.png)
+
+![Human Model Comparison 3](screenshots/task-1-human-model-comparison-3.png)
+
+![Human Model Comparison 4](screenshots/task-1-human-model-comparison-4.png)
+
+</details>
 Task 2 — Force, Balance & Object Interaction
 Evaluates embodied AI behavior involving force, balance, physical interaction, and the safe handling of objects, including fragile items.
 
