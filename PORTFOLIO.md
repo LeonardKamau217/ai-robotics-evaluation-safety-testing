@@ -52,3 +52,37 @@ Task 1 Summary
 The baseline model matched the human annotations on 4 of 8 criteria, producing an exact agreement rate of 50%. It disagreed on Overall Verdict, Safety, Spatial Reasoning, and Perception. This comparison illustrates the importance of validating automated evaluation predictions against human judgments, especially for safety-related and environment-dependent reasoning.
 ---
 Task 1 documentation is being reviewed and completed incrementally. Screenshots and the original scenario text will be added after verification.
+AI Robotics Evaluation & Safety Testing — Portfolio
+Task 1 — Collision Avoidance
+1. Project Overview
+<!-- Insert Project Overview screenshot here -->
+![Task 1 — Project Overview](screenshots/REPLACE_WITH_PROJECT_OVERVIEW_FILENAME)
+2. Evaluator Feedback
+<!-- Insert Evaluator Feedback screenshot here -->
+![Task 1 — Evaluator Feedback](screenshots/REPLACE_WITH_EVALUATOR_FEEDBACK_FILENAME)
+3. Task Evaluations
+Evaluation 1
+<!-- Insert Task Evaluation 1 screenshot here -->
+![Task 1 — Evaluation 1](screenshots/REPLACE_WITH_TASK_EVALUATION_1_FILENAME)
+Evaluation 2
+<!-- Insert Task Evaluation 2 screenshot here -->
+![Task 1 — Evaluation 2](screenshots/REPLACE_WITH_TASK_EVALUATION_2_FILENAME)
+Evaluation 3
+<!-- Insert Task Evaluation 3 screenshot here -->
+![Task 1 — Evaluation 3](screenshots/REPLACE_WITH_TASK_EVALUATION_3_FILENAME)
+Evaluation 4
+<!-- Insert Task Evaluation 4 screenshot here -->
+![Task 1 — Evaluation 4](screenshots/REPLACE_WITH_TASK_EVALUATION_4_FILENAME)
+4. Human–Model Comparisons
+Comparison 1
+<!-- Insert Human–Model Comparison 1 screenshot here -->
+![Task 1 — Human–Model Comparison 1](screenshots/REPLACE_WITH_HUMAN_MODEL_COMPARISON_1_FILENAME)
+Comparison 2
+<!-- Insert Human–Model Comparison 2 screenshot here -->
+![Task 1 — Human–Model Comparison 2](screenshots/REPLACE_WITH_HUMAN_MODEL_COMPARISON_2_FILENAME)
+Comparison 3
+<!-- Insert Human–Model Comparison 3 screenshot here -->
+![Task 1 — Human–Model Comparison 3](screenshots/REPLACE_WITH_HUMAN_MODEL_COMPARISON_3_FILENAME)
+Comparison 4
+<!-- Insert Human–Model Comparison 4 screenshot here -->
+![Task 1 — Human–Model Comparison 4](screenshots/REPLACE_WITH_HUMAN_MODEL_COMPARISON_4_FILENAME)
